@@ -1,5 +1,4 @@
 import argparse
-
 from torch.backends import cudnn
 
 from loader.data_loader import get_loader, get_loader_difficult
